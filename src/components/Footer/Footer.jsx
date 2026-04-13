@@ -89,7 +89,7 @@ const Footer = () => {
         <div className="footer-bottom">
           <div className="footer-bottom-left">
             <div className="footer-logo">
-              <span>TRIVÉ</span>
+              <span>TRIVÉ.</span>
             </div>
             <p>&copy; 2026 TRIVÉ. All rights reserved.</p>
           </div>
